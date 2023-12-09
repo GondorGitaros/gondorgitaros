@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <p align="center">- 🌱 I’m currently learning <b>Python</b> and <b>GitHub</b></p>
-<p align="center">- 🏫 Currently at high school</p>
-<p align="center">- :santa: Loveing winter already</p>
+<p align="center">- 🏫 Currently at <b>high school</b></p>
+<p align="center">- :santa: I love <b>winter</b> already</p>
 
 
 
